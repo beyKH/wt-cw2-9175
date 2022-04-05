@@ -69,6 +69,6 @@ This web application was created to fulfill Web Technology module’s requiremen
 - package.json
 
 
-#LINKS
-##HEROKU : https://frozen-gorge-82012.herokuapp.com/
-##GITHUB : https://github.com/beyKH/wt-cw2-9175
+LINKS
+HEROKU : https://frozen-gorge-82012.herokuapp.com/
+GITHUB : https://github.com/beyKH/wt-cw2-9175
